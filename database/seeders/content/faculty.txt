@@ -1,0 +1,168 @@
+Fakultas Teknik Informatika|Teknik Informatika, Keamanan Siber, Aplikasi Permainan, Teknologi dan Aplikasi Bergerak, Sains Data|1
+Fakultas Desain|Desain Interior, Desain Komunikasi Visual Animasi, Desain Komunikasi Visual Media Baru, Desain Komunikasi Visual Periklanan Kreatif|1
+Fakultas Teknik|Arsitektur, Teknik Sipil, Teknik Industri, Teknik Komputer, Teknologi Pangan|1
+Fakultas Ekonomika dan Komunikasi|Akuntansi, Keuangan, Komunikasi Pemasaran, Manajemen Hotel|1
+Fakultas Humaniora|Psikologi, Hubungan Internasional, Hukum Bisnis, Sastra Cina, Sastra Inggris, Sastra Jepang, Pendidikan Guru Sekolah Dasar|1
+Fakultas Sistem Informasi|Komputerisasi Akuntansi, Sistem Informasi, Sistem Informasi Audit|1
+Fakultas Bisnis dan Manajemen|Bisnis dan Manajemen Internasional, Manajemen, Pemasaran Internasional|1
+Fakultas Kedokteran|Pendidikan Dokter, Ilmu Kesehatan Masyarakat, Ilmu Keperawatan|2
+Fakultas Teknik|Teknik Mesin, Teknik Elektro, Teknik Kimia, Teknik Sipil|2
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Komunikasi, Ilmu Administrasi Negara, Ilmu Hubungan Internasional|2
+Fakultas Ekonomi dan Bisnis|Ekonomi Pembangunan, Manajemen, Akuntansi|2
+Fakultas Hukum|Ilmu Hukum|2
+Fakultas Psikologi|Psikologi|2
+Fakultas Ilmu Budaya|Sastra Inggris, Sejarah|2
+Fakultas MIPA|Matematika, Fisika, Kimia|2
+Fakultas Teknologi Kelautan, Perikanan, dan Ilmu Kelautan|Teknologi Kelautan, Ilmu Kelautan|2
+Fakultas Kedokteran|Pendidikan Dokter, Ilmu Kesehatan Masyarakat, Ilmu Keperawatan|3
+Fakultas Hukum|Ilmu Hukum|3
+Fakultas Ekonomi dan Bisnis|Ekonomi Pembangunan, Manajemen, Akuntansi, Ekonomi Islam|3
+Fakultas Pertanian|Agribisnis, Agronomi, Teknologi Pangan, Hortikultura|3
+Fakultas Teknik|Teknik Elektro, Teknik Mesin, Teknik Sipil, Teknik Kimia, Teknik Industri, Teknik Geologi|3
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Ilmu Hubungan Internasional, Ilmu Komunikasi|3
+Fakultas MIPA|Matematika, Fisika, Kimia, Biologi, Statistika|3
+Fakultas Teknologi Pertanian|Teknologi Hasil Pertanian, Teknologi Industri Pertanian|3
+Fakultas Ilmu Budaya|Sastra Inggris, Sejarah, Antropologi|3
+Fakultas Kedokteran Hewan|Kedokteran Hewan|3
+Fakultas Psikologi|Psikologi|3
+Fakultas Ilmu Komputer|Informatika, Sistem Informasi|3
+Fakultas Keperawatan|Keperawatan|3
+Fakultas Farmasi|Farmasi|3
+Fakultas Kesehatan Masyarakat|Kesehatan Masyarakat|3
+Fakultas Teknologi Industri|Teknik Kimia Industri, Teknik Industri|3
+Fakultas Peternakan|Peternakan|3
+Fakultas Perikanan dan Ilmu Kelautan|Perikanan, Ilmu Kelautan|3
+Fakultas Vokasi|Teknik Pengairan, Teknologi Informasi, Manajemen Informatika|3
+Fakultas Kedokteran|Pendidikan Dokter|4
+Fakultas Teknik|Teknik Sipil, Teknik Mesin, Teknik Industri, Teknik Elektro, Teknik Informatika|4
+Fakultas Ekonomi dan Bisnis|Ekonomi, Manajemen, Akuntansi|4
+Fakultas Hukum|Ilmu Hukum|4
+Fakultas Psikologi|Psikologi|4
+Fakultas Ilmu Komputer|Informatika, Sistem Informasi|4
+Fakultas Desain dan Seni Kreatif|Arsitektur, Desain Produk, Desain Interior, Seni Rupa|4
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Komunikasi, Ilmu Administrasi Negara, Hubungan Internasional|4
+Fakultas Keguruan dan Ilmu Pendidikan|Pendidikan Bahasa Inggris, Pendidikan Bahasa Mandarin, Pendidikan Biologi|4
+Fakultas Farmasi|Farmasi|4
+Fakultas Bisnis|Bisnis Digital|4
+Fakultas Ekonomi dan Bisnis Internasional|Ekonomi dan Bisnis Internasional|4
+Fakultas Seni Pertunjukan|Musik, Tari|4
+Fakultas Hukum|Ilmu Hukum, Kenotariatan|5
+Fakultas Ekonomi dan Bisnis|Akuntansi, Ekonomi Pembangunan, Manajemen, Ekonomi Islam, Bisnis Digital, Profesi Akuntansi|5
+Fakultas Kedokteran|Kedokteran, Kedokteran Hewan|5
+Fakultas Matematika dan IPA|Matematika, Kimia, Fisika, Biologi, Geofisika, Statistika, Teknik Informasi, Teknik Elektro, Aktuaria|5
+Fakultas Pertanian|Agro Teknopreneur, Agroteknologi, Agribisnis, Ekonomi Pertanian, Ilmu Tanah, Agronomi, Ilmu Pertanian|5
+Fakultas Kedokteran Gigi|Kedokteran Gigi, Pendidikan Profesi Dokter Gigi|5
+Fakultas Ilmu Budaya|Bahasa dan Budaya Tiongkok, Sastra Indonesia, Sastra Sunda, Ilmu Sejarah, Sastra Inggris, Sastra Perancis, Sastra Jepang, Sastra Rusia, Sastra Jerman, Sastra Arab|5
+Fakultas Ilmu Sosial dan Ilmu Politik|Administrasi Publik, Ilmu Hubungan Internasional, Ilmu Hubungan Internasional, Ilmu Kesejahteraan Sosial, Ilmu Pemerintahan, Antropologi, Ilmu Administrasi Bisnis, Sosiologi, Ilmu Politik|5
+Fakultas Psikologi|Psikologi|5
+Fakultas Peternakan|Peternakan|5
+Fakultas Ilmu Komunikasi|Ilmu Komunikasi, Ilmu Perpustakaan, Hubungan Masyarakat, Jurnalistik, Manajemen Komunikasi, Televisi dan Film|5
+Fakultas Keperawatan|Keperawatan|5
+Fakultas Perikanan dan Kelautan|Pariwisata Bahari, Perikanan, Ilmu Kelautan|5
+Fakultas Teknologi Industri Pertanian|Teknik Pertanian dan Biosistem, Teknologi Pangan, Teknologi Industri Pertanian|5
+Fakultas Farmasi|Farmasi, Profesi Apoteker|5
+Fakultas Teknik Geologi|Teknik Geologi|5
+Fakultas Bisnis dan Ekonomi|Manajemen Bisnis, Akuntansi, Ekonomi Bisnis|6
+Fakultas Teknologi dan Desain|Desain Produk, Teknik Informatika, Teknik Elektro|6
+Fakultas Ilmu Sosial dan Komunikasi|Hubungan Internasional, Ilmu Komunikasi|6
+Fakultas Seni dan Desain|Desain Interior, Seni Rupa|6
+Fakultas Industri Kreatif|Film dan Televisi, Animasi, Desain Grafis|6
+Fakultas Ilmu Kesehatan|Kesehatan Masyarakat, Kebidanan|6
+Fakultas Arsitektur dan Desain|Arsitektur|6
+Fakultas Teknik|Teknik Sipil, Teknik Mesin|6
+Fakultas Sains|Biologi, Kimia, Matematika|6
+Fakultas Vokasi|Teknik Otomotif, Manajemen Perhotelan|6
+Fakultas Kedokteran|Pendidikan Dokter, Ilmu Kesehatan Masyarakat, Ilmu Keperawatan|7
+Fakultas Teknik|Teknik Elektro, Teknik Mesin, Teknik Sipil|7
+Fakultas Ekonomi dan Bisnis|Manajemen, Akuntansi, Ekonomi Pembangunan|7
+Fakultas Hukum|Ilmu Hukum|7
+Fakultas Psikologi|Psikologi|7
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Komunikasi, Ilmu Administrasi Negara, Ilmu Hubungan Internasional|7
+Fakultas Ilmu Budaya|Sastra Inggris, Sastra Indonesia, Sejarah|7
+Fakultas MIPA|Matematika, Fisika, Kimia|7
+Fakultas Farmasi|Farmasi|7
+Fakultas Teknologi Industri|Teknik Industri|7
+Fakultas Ilmu Komputer|Teknik Informatika, Sistem Informasi|7
+Fakultas Keguruan dan Ilmu Pendidikan|Pendidikan Bahasa Inggris, Pendidikan Bahasa Indonesia, Pendidikan Matematika, Pendidikan Biologi|7
+Fakultas Seni Rupa dan Desain|Seni Rupa, Desain Komunikasi Visual|7
+Fakultas Teologi|Teologi|7
+Fakultas Teknik dan Ilmu Komputer|Teknik Informatika, Teknik Elektro, Teknik Industri|8
+Fakultas Ekonomi dan Bisnis|Manajemen, Akuntansi, Ekonomi Pembangunan|8
+Fakultas Kedokteran|Pendidikan Dokter, Kedokteran Gigi|8
+Fakultas Psikologi|Psikologi|8
+Fakultas Hukum|Ilmu Hukum|8
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Komunikasi, Hubungan Internasional|8
+Fakultas Seni dan Desain|Desain Komunikasi Visual, Seni Musik|8
+Fakultas Farmasi|Farmasi|8
+Fakultas Ilmu Kesehatan|Keperawatan, Nutrisi|8
+Fakultas Teknologi Informasi|Sistem Informasi, Teknik Komputer|8
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Hubungan Internasional|8
+Fakultas Bahasa dan Budaya|Sastra Inggris, Jurnalisme|8
+Fakultas Keperawatan|Keperawatan|8
+Fakultas Arsitektur dan Desain|Arsitektur, Desain Interior|8
+Fakultas Ekonomi dan Bisnis Internasional|Ekonomi Bisnis Internasional|8
+Fakultas Kedokteran Gigi|Kedokteran Gigi|8
+Fakultas Sains dan Teknologi|Biologi, Kimia|8
+Fakultas Matematika dan Ilmu Pengetahuan Alam|Matematika, Fisika|8
+Fakultas Ilmu Komputer|Informatika|8
+Fakultas Ilmu Sosial|Ilmu Komunikasi|8
+Fakultas Teknik|Teknik Sipil|8
+Fakultas Desain dan Seni Kreatif|Desain Produk, Desain Grafis|8
+Fakultas Bisnis|Manajemen Bisnis|8
+Fakultas Ilmu Kesehatan Masyarakat|Ilmu Kesehatan Masyarakat|8
+Fakultas Kedokteran Hewan|Kedokteran Hewan|8
+Fakultas Kedokteran|Pendidikan Dokter, Ilmu Kesehatan Masyarakat, Ilmu Keperawatan|9
+Fakultas Farmasi|Farmasi|9
+Fakultas Vokasi|Keperawatan, Kesehatan Masyarakat, Rekam Medis dan Informasi Kesehatan, Teknik Kesehatan|9
+Fakultas Teknik|Teknik Sipil, Teknik Kimia, Teknik Elektro, Teknik Mesin, Teknik Industri|9
+Fakultas Hukum|Ilmu Hukum|9
+Fakultas Ekonomi dan Bisnis|Ekonomi Pembangunan, Manajemen, Akuntansi|9
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Ilmu Hubungan Internasional, Antropologi, Sosiologi|9
+Fakultas Psikologi|Psikologi|9
+Fakultas Matematika dan Ilmu Pengetahuan Alam|Matematika, Fisika, Kimia, Biologi|9
+Fakultas Kedokteran Hewan|Kedokteran Hewan|9
+Fakultas Perikanan dan Ilmu Kelautan|Perikanan, Ilmu Kelautan|9
+Fakultas Ilmu Administrasi|Ilmu Administrasi Bisnis, Ilmu Administrasi Negara|9
+Fakultas Kesehatan Masyarakat|Kesehatan Masyarakat|9
+Fakultas Ilmu Budaya|Bahasa dan Sastra Jepang, Bahasa dan Sastra Inggris|9
+Fakultas Kedokteran Gigi|Kedokteran Gigi|9
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Ilmu Hubungan Internasional|9
+Fakultas Teknologi Kelautan, Perikanan, dan Ilmu Kelautan|Teknologi Kelautan, Ilmu Kelautan|9
+Fakultas Pertanian|Agribisnis, Agronomi, Teknologi Industri Pertanian|10
+Fakultas Kedokteran|Pendidikan Dokter, Ilmu Kesehatan Masyarakat, Kedokteran Gigi|10
+Fakultas Hukum|Ilmu Hukum|10
+Fakultas Ekonomi dan Bisnis|Ekonomi Pembangunan, Manajemen, Akuntansi|10
+Fakultas Teknik|Teknik Sipil, Teknik Mesin, Teknik Elektro, Teknik Kimia|10
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Ilmu Hubungan Internasional, Ilmu Komunikasi|10
+Fakultas Kedokteran Hewan|Kedokteran Hewan|10
+Fakultas Ilmu Budaya|Sastra Inggris, Sastra Indonesia, Arkeologi|10
+Fakultas MIPA|Matematika, Fisika, Kimia, Biologi|10
+Fakultas Psikologi|Psikologi|10
+Fakultas Kedokteran Gigi|Kedokteran Gigi|10
+Fakultas Teknologi Pertanian|Teknologi Hasil Pertanian, Teknologi Industri Pertanian|10
+Fakultas Perikanan dan Ilmu Kelautan|Perikanan, Ilmu Kelautan|10
+Fakultas Kesehatan Masyarakat|Kesehatan Masyarakat|10
+Fakultas Farmasi|Farmasi|10
+Fakultas Vokasi|Teknik Pertambangan, Teknik Perminyakan, Teknik Mesin Produksi, Perawatan|10
+Fakultas Ekonomi dan Ilmu Administrasi|Manajemen, Akuntansi, Ekonomi Pembangunan, Ilmu Ekonomi dan Studi Pembangunan|11
+Fakultas Hukum|Ilmu Hukum|11
+Fakultas Ilmu Komputer dan Teknologi Informasi|Teknik Informatika, Sistem Informasi|11
+Fakultas Teknik|Teknik Elektro, Teknik Mesin, Teknik Sipil, Teknik Industri|11
+Fakultas Psikologi|Psikologi|11
+Fakultas Kedokteran|Pendidikan Dokter|11
+Fakultas Ilmu Sosial dan Ilmu Politik|Ilmu Administrasi Negara, Ilmu Komunikasi|11
+Fakultas Farmasi|Farmasi|11
+Fakultas Pertanian|Agribisnis, Agroteknologi|11
+Fakultas Kedokteran Gigi|Pendidikan Dokter Gigi|11
+Fakultas Teknologi Industri|Teknik Industri|11
+Fakultas Ilmu Budaya|Sastra Inggris, Bahasa Jepang|11
+Fakultas Keguruan dan Ilmu Pendidikan|Pendidikan Matematika, Pendidikan Bahasa Inggris|11
+Fakultas Kesehatan Masyarakat|Ilmu Kesehatan Masyarakat|11
+Fakultas Ilmu Komunikasi|Ilmu Komunikasi|11
+Fakultas Desain dan Seni Kreatif|Desain Komunikasi Visual, Desain Interior|11
+Fakultas Teknik Elektro|Pengolahan Sinyal Informasi, Jaringan dan Multimedia, Sistem dan, Transmisi Telekomunikasi, Sistem Elektronik, Teknik Komputer|12
+Fakultas Rekayasa Industri|Manajemen Rekayasa Elektronika, Bisnis dan Teknologi Elektronika, Proses dan Optimasi Kerja Elektronika|12
+Fakultas Informatika|Kecerdasan Komputasi dan Multimedia, Pengembangan Perangkat Lunak, Sistem Informasi dan Data, Telematika|12
+Fakultas Ekonomi dan Bisnis|Manajemen Operasi dan TIK, Inovasi Strategi dan Kewirausahaan, Pengembangan Sumber Daya Manusia, Studi Pemasaran dan Konsumen, Studi Pasar Keuangan, Studi Akuntansi, Ekonomi Internasionalisasi dan Regulasi|12
+Fakultas Ilmu Terapan|Pemrograman, Multimedia, Perhotelan, Telekomunikasi, Rekayasa Data dan Perangkat Lunak, Manajemen, Akuntansi, Teknik Jaringan, Sistem Tertanam|12
+Fakultas Komunikasi dan Bisnis|Ilmu Komunikasi, Komunikasi Pemasaran, Komunikasi Massa dan Hubungan Masyarakat, Kewirausahaan, Kebijakan dan Strategi Bisnis, Fakultas Industri Kreatif, Komunikasi Visual dan Multimedia, Kajian Budaya, Inovasi Desain|12
